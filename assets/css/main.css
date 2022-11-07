@@ -1947,26 +1947,26 @@ section {
   padding: 14px 40px;
   border-radius: 50px;
   transition: 0.3s;
-  color: #fff;
-  background: rgba(255, 255, 255, 0.1);
+  color: #f3cd00;
+  background: #dc3545;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.08);
   border: 2px solid rgba(255, 255, 255, 0.1);
 }
 
 .hero .btn-get-started:hover {
-  border-color: rgba(255, 255, 255, 0.5);
+  border-color: #ffc107;
 }
 
 .hero .btn-watch-video {
   font-size: 16px;
   transition: 0.5s;
   margin-left: 25px;
-  color: #fff;
+  color: #dc3545;
   font-weight: 600;
 }
 
 .hero .btn-watch-video i {
-  color: rgba(255, 255, 255, 0.5);
+  color: #dc3545;
   font-size: 32px;
   transition: 0.3s;
   line-height: 0;
