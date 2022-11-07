@@ -248,11 +248,11 @@ section {
 # Header
 --------------------------------------------------------------*/
 .topbar {
-  background: #f3cd00;
+  background: #dc3545;
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
-  color: #fff;
+  color: #f3cd00;
   padding: 0;
 }
 
